@@ -1,5 +1,5 @@
 function shout(string) {
-  const str = string;
+  let str = string;
   str = str.toUpperCase();
   return str;
 }
